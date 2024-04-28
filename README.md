@@ -363,9 +363,10 @@ When integrating third-party music APIs such as Spotify or Apple Music into an a
   </figure>
 </div>
 
-# Tune Trek App Demo Video
+# Tune Trek App Video Preview
 
-Click the link below to watch the demo video of the Tune Trek Music iOS App:
+Click on the image below to watch the Tune Trek App Video:
 
-[Watch the Tune Trek Demo Video](https://youtube.com/shorts/kjTXmFprjqQ?feature=share)
+[![Watch the Video](http://img.youtube.com/vi/kjTXmFprjqQ/0.jpg)](https://www.youtube.com/watch?v=kjTXmFprjqQ "Watch Tune Trek App Video")
+
 
