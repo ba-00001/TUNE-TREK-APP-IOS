@@ -349,3 +349,16 @@ query.findObjectsInBackground { (songs: [PFObject]?, error: Error?) -> Void in
 When integrating third-party music APIs such as Spotify or Apple Music into an application, developers typically utilize the SDKs provided by these platforms or make direct HTTP requests to their API endpoints. These endpoints enable the retrieval of song data, facilitate music searches, among other functionalities. The documentation provided by these third-party APIs offers detailed information on specific endpoints and the data structures they return, guiding developers in efficiently incorporating music-related features into their applications.
 
 **[BONUS]** For digital wireframes, mockups, and interactive prototypes, tools like Figma, Sketch, or Adobe XD are recommended to bring your app design to life.
+
+**Image Login / Register Screen Wireframe:**
+
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/TuneTrek_Music_IOS_APP_VIDEO.mp4" width="400" alt="Image 2">
+     <br> <!-- Line break -->
+    <figcaption> Wireframe 2</figcaption>
+  </figure>
+</div>
+
+
