@@ -350,7 +350,7 @@ When integrating third-party music APIs such as Spotify or Apple Music into an a
 
 **[BONUS]** For digital wireframes, mockups, and interactive prototypes, tools like Figma, Sketch, or Adobe XD are recommended to bring your app design to life.
 
-# Milestone 2 Deliverables New app TuneTrek Updates 
+# Milestone 2 -  New app TuneTrek Updates 
 
 Welcome to TuneTrek, the sleek iOS music player app where functionality meets aesthetics. Designed with simplicity in mind, TuneTrek lets you navigate your music collection with a swipe and a tap. With a focus on the essentials, you can enjoy your music without any unnecessary complications.
 
@@ -387,16 +387,30 @@ TuneTrek is displayed on iphone SE Ipad mini and iphone 15 PRO.
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/Tune_Trek_IOS_IMAGE3png.png" width="400" alt="Image 1">
+    <img src="https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/Tune_Trek_IOS_IMAGE3png.png" width="900" alt="Image 1">
      <br> <!-- Line break -->
     <figcaption> App Images</figcaption>
   </figure>
 </div>
 
+
+
+# Milestone 3 Final APP
+
+<!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/TuneTrek_Music_IOS_APP_gif.gif" width="900" alt="Image 1">
+     <br> <!-- Line break -->
+    <figcaption> App GIF</figcaption>
+  </figure>
+</div>
+
+
+
 # Tune Trek App Video Preview
 
 Click on the image below to watch the Tune Trek App Video:
-
+<div align="center">
 [![Watch the Video](http://img.youtube.com/vi/kjTXmFprjqQ/0.jpg)](https://www.youtube.com/watch?v=kjTXmFprjqQ "Watch Tune Trek App Video")
-
-
+</div>
