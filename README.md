@@ -412,7 +412,7 @@ TuneTrek is displayed on iphone SE Ipad mini and iphone 15 PRO.
 
 Click on the image below to watch the Tune Trek App Video:
 <div align="center">
-[![Watch the Video](http://img.youtube.com/vi/kjTXmFprjqQ/0.jpg)](https://www.youtube.com/watch?v=kjTXmFprjqQ "Watch Tune Trek App Video")
+
 
   [![Watch the Video](http://img.youtube.com/vi/kjTXmFprjqQ/0.jpg)](https://www.youtube.com/watch?v=kjTXmFprjqQ)
 </div>
