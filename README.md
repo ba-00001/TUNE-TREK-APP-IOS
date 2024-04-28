@@ -355,7 +355,7 @@ When integrating third-party music APIs such as Spotify or Apple Music into an a
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/TuneTrek_Music_IOS_APP_VIDEO.mp4" width="400" alt="Image 2">
+    <img src="https://youtube.com/shorts/kjTXmFprjqQ?feature=share" width="400" alt="Image 2">
      <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
@@ -365,5 +365,5 @@ When integrating third-party music APIs such as Spotify or Apple Music into an a
 
 Click the link below to watch the demo video of the Tune Trek Music iOS App:
 
-[Watch the Tune Trek Demo Video](https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/TuneTrek_Music_IOS_APP_VIDEO.mp4)
+[Watch the Tune Trek Demo Video](https://youtube.com/shorts/kjTXmFprjqQ?feature=share)
 
