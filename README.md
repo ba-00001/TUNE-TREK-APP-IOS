@@ -256,8 +256,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 
 # Milestone 2 Deliverables Checklist
 
-- [ ] Updated readme.md with new features implemented and NEW video with new features
-- [ ] NEW video with your new features at the top of your old one. Keep your old one!
+- [x] Updated readme.md with new features implemented and NEW video with new features
+- [x] NEW video with your new features at the top of your old one. Keep your old one!
 
 # Schema
 
@@ -350,16 +350,46 @@ When integrating third-party music APIs such as Spotify or Apple Music into an a
 
 **[BONUS]** For digital wireframes, mockups, and interactive prototypes, tools like Figma, Sketch, or Adobe XD are recommended to bring your app design to life.
 
-**Image Login / Register Screen Wireframe:**
+# Milestone 2 Deliverables New app TuneTrek Updates 
+
+Welcome to TuneTrek, the sleek iOS music player app where functionality meets aesthetics. Designed with simplicity in mind, TuneTrek lets you navigate your music collection with a swipe and a tap. With a focus on the essentials, you can enjoy your music without any unnecessary complications.
+
+## Features
+
+- **Launch Screen**: A welcoming first screen that sets the tone for a user-friendly experience.
+- **Music Library**: View your entire collection with song titles, album names, and artist details.
+- **Easy Navigation**: Scroll through your list of songs and select any to transition to the now-playing view.
+- **Playback Controls**: Effortlessly control the volume, skip to the next song, or go back to the previous one.
+- **Music Storage Access**: TuneTrek integrates with your device’s music storage for easy access to all your tracks.
+
+## Installation
+
+TuneTrek is available for all iOS devices. Follow these steps to install:
+
+1. Open the App Store on your iOS device.
+2. Search for 'TuneTrek'.
+3. Tap 'Get' to download and install the app.
+4. Once installed, tap to open TuneTrek and give the necessary permissions to access your music library.
+5. Dive into your music collection and enjoy the simplicity of TuneTrek.
+
+## How to Use
+
+- Launch TuneTrek to see your song list with detailed information.
+- Tap on a song to enter the now-playing screen where the album art, song, album, and artist details are displayed.
+- Use the playback controls to adjust the volume, skip tracks, or revisit previous songs.
+
+
+
+**App Icon / Music Library screen / Song screen :**
+
+TuneTrek is displayed on iphone SE Ipad mini and iphone 15 PRO.
 
 <!-- Single row of images with names [Add picture of your hand sketched wireframe here] -->
 <div align="center">
   <figure>
-    <img src="https://youtube.com/shorts/kjTXmFprjqQ?feature=share" width="400" alt="Image 2">
-    [![Watch the Video](http://img.youtube.com/vi/kjTXmFprjqQ/0.jpg)](https://www.youtube.com/watch?v=kjTXmFprjqQ)
-
+    <img src="https://github.com/ba-00001/TUNE-TREK-APP-IOS/blob/main/Resources/Tune_Trek_IOS_IMAGE3png.png" width="400" alt="Image 1">
      <br> <!-- Line break -->
-    <figcaption> Wireframe 2</figcaption>
+    <figcaption> App Images</figcaption>
   </figure>
 </div>
 
