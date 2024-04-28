@@ -356,6 +356,8 @@ When integrating third-party music APIs such as Spotify or Apple Music into an a
 <div align="center">
   <figure>
     <img src="https://youtube.com/shorts/kjTXmFprjqQ?feature=share" width="400" alt="Image 2">
+    [![Watch the Video](http://img.youtube.com/vi/kjTXmFprjqQ/0.jpg)](https://www.youtube.com/watch?v=kjTXmFprjqQ)
+
      <br> <!-- Line break -->
     <figcaption> Wireframe 2</figcaption>
   </figure>
